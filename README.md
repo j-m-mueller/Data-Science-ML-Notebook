@@ -6,3 +6,5 @@ Contains the following steps:
 - model creation and fitting for two different models (K-nearest Neighbors Regressor and Random Forest Regressor)
 - rating of Feature Importances based on the Random Forest Regressor model
 - template to use the model for actual predictions
+
+*Note:* Due to reasons of simplicity, the notebook does not contain advanced methods like K-fold cross-validation, feature selection, grid search, etc. Its main purpose is to demonstrate some basic tools and procedures.
