@@ -7,4 +7,4 @@ Contains the following steps:
 - rating of Feature Importances based on the Random Forest Regressor model
 - template to use the model for actual predictions
 
-*Note:* Due to reasons of simplicity, the notebook does not contain advanced methods like K-fold cross-validation, feature interactions, feature selection, grid search, etc. Its main purpose is to demonstrate some basic tools and procedures.
+*Note:* Due to reasons of simplicity, the notebook does not contain advanced methods like K-fold cross-validation, feature interactions, grid search, etc. Its main purpose is to demonstrate some basic tools and procedures.
