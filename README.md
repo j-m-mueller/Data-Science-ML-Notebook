@@ -8,3 +8,5 @@ The notebook contains the following steps:
 - a small template to use the model for actual predictions
 
 *Note:* Due to reasons of simplicity, the notebook does not contain advanced methods like K-fold cross-validation, feature interactions, grid search, etc. Its main purpose is to demonstrate some basic tools and procedures.
+
+Designed for TensorFlow version 1.8.0rc and Keras version 2.2.4.
