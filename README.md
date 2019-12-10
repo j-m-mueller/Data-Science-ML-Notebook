@@ -1,5 +1,5 @@
 # Data Science: A Machine Learning Notebook
-A Jupyter Notebook with an exemplary workflow on data preparation and model creation in *Scikit-learn* and *TensorFlow / Keras*. For demonstration, the model is based on the Boston Housing Dataset, which is imported via the *Scikit-learn* dataset repository.
+A Jupyter Notebook featuring an exemplary workflow on data preparation and model creation in *Scikit-learn* and *TensorFlow / Keras*. For demonstration, the model is based on the Boston Housing Dataset, which is imported via the *Scikit-learn* dataset repository.
 
 The notebook contains the following steps:
 - data exploration (show data distribution, correlations, and issues with invalid values)
